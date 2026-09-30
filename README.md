@@ -1,6 +1,6 @@
 # WebDev_Project_TeamLucasSnow
-#Project Description
-This project is a website created for Lucas Snow showcasing his passion for snowboarding, winter sports and travelling to exciting destinations. 
+Project Description:
+- This project is a website created for Lucas Snow showcasing his passion for snowboarding, winter sports and travelling to exciting destinations. 
 
 The website will include:
 - A Main Homepage with an exciting winter sports theme welcoming the users to the site.
